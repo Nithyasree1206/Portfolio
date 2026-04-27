@@ -995,13 +995,25 @@ downloadResumeBtn.addEventListener("click", () => {
 
 ```
 ## OUTPUT
-<img width="1918" height="963" alt="WEB1" src="https://github.com/user-attachments/assets/106c114c-a3ce-41cd-a352-a345dba3e6b9" />
-<img width="1886" height="916" alt="WEB2" src="https://github.com/user-attachments/assets/61d36e73-b421-4ad9-832b-813227382f36" />
-<img width="1915" height="937" alt="WEB3" src="https://github.com/user-attachments/assets/0ea432c0-0c44-4dc2-9e04-40923096273f" />
-<img width="1918" height="960" alt="WEB4" src="https://github.com/user-attachments/assets/a39590d4-9b92-499c-9ea7-7e9c35d97031" />
-<img width="1917" height="955" alt="WEB5" src="https://github.com/user-attachments/assets/56460e1f-1464-4346-a74a-34f10f7727e1" />
-<img width="1918" height="958" alt="WEB6" src="https://github.com/user-attachments/assets/4c6ae07b-6bab-48a1-bef7-b267a986b10a" />
-<img width="1887" height="957" alt="WEB7" src="https://github.com/user-attachments/assets/cb0e8b03-e07a-40f4-8859-c0b9acf66720" />
+# HOME PAGE
+<img width="1915" height="963" alt="web1" src="https://github.com/user-attachments/assets/693e8299-a186-4afe-a15a-374582747eeb" />
+## ABOUT PAGE
+<img width="1918" height="956" alt="web2" src="https://github.com/user-attachments/assets/c9e8916a-2746-42ee-85aa-7e1c5fdea50e" />
+
+# SKILLS PAGE
+<img width="1918" height="956" alt="web3" src="https://github.com/user-attachments/assets/3973bf51-b61c-413d-aa90-63a66e8d8f9d" />
+
+# PROJECTS PAGE
+<img width="1918" height="935" alt="web4" src="https://github.com/user-attachments/assets/189f286e-6803-404b-baa1-a3e7a439b659" />
+
+# EXPERIENCE PAGE
+<img width="1916" height="927" alt="web5" src="https://github.com/user-attachments/assets/109ceb85-d571-4846-a924-2fb2abb0575d" />
+
+# ACHIEVEMENTS PAGE
+<img width="1918" height="955" alt="web6" src="https://github.com/user-attachments/assets/1bb9affc-0f76-4aa8-8c3a-91f115dc0008" />
+
+# CONTACT PAGE
+<img width="1910" height="905" alt="web7" src="https://github.com/user-attachments/assets/c27c4664-6c2c-4a9e-a294-58bbe5783a6b" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
